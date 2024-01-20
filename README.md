@@ -1,3 +1,4 @@
+#AresMatrix
 **Zobrazení na Adresovatelných LED Diodech**
 
 Tento projekt zahrnuje návrh, montáž a ovládání displeje s adresovatelnými LED diodami, určeného pro reklamní účely a také jako vzdělávací nástroj. Hlavním cílem je jednoduchost sestavení a rozsáhlé možnosti ovládání, včetně bezdrátového ovládání přes Wi-Fi.
